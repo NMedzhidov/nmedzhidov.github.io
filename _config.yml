@@ -61,12 +61,14 @@ coursera:
    courses:
     - title: Introduction to Artificial Intelligence (AI) by IBM
       link: https://www.coursera.org/learn/introduction-to-ai/home/welcome
-      optionalimage: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/f7/9812f978144ce8ac721727bc516cb0/Intro-to-AI-Naimo.jpg?auto=format%2Ccompress&dpr=2&w=150&h=150&fit=fill&bg=FFF
-      date: Finished in July 2019
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/specializations/algorithms
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
+      optionalimage: https://www.coursera.org/account/accomplishments/certificate/8RXXQWDRNCGW
+      date: July 2019 
+      grade: Grade Achieved: 91.3%
+    - title: Building AI Powered Chatbots Without Programming
+      link: https://www.coursera.org/learn/building-ai-powered-chatbots/home/welcome
+      optionalimage: https://www.coursera.org/account/accomplishments/certificate/RPQCYK637RA8
+      date: July 2019
+      grade: Grade Achieved: 96.8%
 
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
