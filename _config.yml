@@ -13,6 +13,8 @@ primarylinks:
    url: https://github.com/nmedzhidov
  - title: LinkedIn
    url: https://www.linkedin.com/in/nazim-medzhidov-12161539/
+ - title: Twitter
+   url: https://twitter.com/MedzhidovND
 
 #Any buzzword skills you want to include
 skills:
@@ -60,10 +62,10 @@ roles:
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+ - level: Ph.D. in Immunology
+   date: 2007
+   subject: B lymphocyte activation
+   school: Tokyo Medical and Dental University
 
 #This section is optional (as is the image link below)
 coursera:
