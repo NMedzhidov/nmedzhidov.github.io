@@ -63,12 +63,12 @@ coursera:
       link: https://www.coursera.org/learn/introduction-to-ai/home/welcome
       optionalimage: https://www.coursera.org/account/accomplishments/certificate/8RXXQWDRNCGW
       date: July 2019 
-      grade: Grade Achieved: 91.3%
+      grade: Grade Achieved 91.3%
     - title: Building AI Powered Chatbots Without Programming
       link: https://www.coursera.org/learn/building-ai-powered-chatbots/home/welcome
       optionalimage: https://www.coursera.org/account/accomplishments/certificate/RPQCYK637RA8
       date: July 2019
-      grade: Grade Achieved: 96.8%
+      grade: Grade Achieved 96.8%
 
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
