@@ -66,6 +66,6 @@ intro: |
   I am currently doing research in Immunology field focused on understanding the molecular mechanisms of B lymphocyte activation. In parallel I am trying to gain programming skills and apply them in solving biological questions.
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>Chatbot</strong>: During my process of learning Artificial Intelligence I developed an AI based chatbot using IBM Watson API services. <a target="_blank" href="https://nazimmedzhidov.intelaedu.com"> This chatbot</a> was desgined for a fictional flower shop chain.<br/><br/>
- 
+   <strong>AI Powered Chatbot</strong>: During my process of learning Artificial Intelligence I developed an AI based chatbot using IBM Watson API services. <a target="_blank" href="https://nazimmedzhidov.intelaedu.com"> This chatbot</a> was desgined for a fictional flower shop chain.<br/><br/>
+   <strong>Python Learning</strong>: <a target="_blank" href="https://gist.github.com/NMedzhidov"> Here</a> are the gists of subjects covered during Pythod for Data Science and AI course.<br/><br/>
 theme: jekyll-theme-architect
