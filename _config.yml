@@ -58,14 +58,14 @@ coursera:
       link: https://www.coursera.org/learn/introduction-to-ai/home/welcome
       optionalimage: ../img/Coursera Intro to AI certificate 8RXXQWDRNCGW.png
       date: Certificate earned in July 2019.
-      grade: Grade Achieved 91.3%.
-      background: 
+      grade: "Grade Achieved: 91.3%."
+      background: This course helped me to understand how AI works, where it can be implemented and how it can help in solving complex problems.
     - title: Building AI Powered Chatbots Without Programming by IBM
       link: https://www.coursera.org/learn/building-ai-powered-chatbots/home/welcome
       optionalimage: ../img/Coursera chatbots certificate RPQCYK637RA8.png
       date: Certificate earned in July 2019.
       grade: "Grade Achieved: 96.8%."
-      background:
+      background: In this course I learned about Watson Virtual Assistant services and built a chatbot for a fictional flower shop utilizing Watson APIs.
 
 
 #List of interesting Github repo/projects to include - optional
