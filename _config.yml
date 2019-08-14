@@ -52,7 +52,7 @@ coursera:
       link: https://www.coursera.org/learn/python-for-applied-data-science-ai/home/welcome
       optionalimage: ../img/Coursera Python Certificate RNMYCH7LBLUV.png
       date: Certificate earned in August 2019. 
-      grade: Grade Achieved: 98.8%. 
+      grade: "Grade Achieved: 98.8%." 
       background: In this course I learned how to use Python programming language to work with data.
     - title: Introduction to Artificial Intelligence (AI) by IBM
       link: https://www.coursera.org/learn/introduction-to-ai/home/welcome
