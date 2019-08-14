@@ -48,6 +48,10 @@ education:
 coursera:
    profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
    courses:
+    - title: Python for Data Science and AI
+      link: https://www.coursera.org/learn/python-for-applied-data-science-ai/home/welcome
+      optionalimage: ../img/Coursera Python Certificate RNMYCH7LBLUV
+      date: August 2019, Grade Achieved 98.8%
     - title: Introduction to Artificial Intelligence (AI) by IBM
       link: https://www.coursera.org/learn/introduction-to-ai/home/welcome
       optionalimage: ../img/Coursera Intro to AI certificate 8RXXQWDRNCGW.png
