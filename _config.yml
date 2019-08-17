@@ -49,24 +49,29 @@ coursera:
    profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
    courses:
     - title: Python for Data Science and AI
-      link: https://www.coursera.org/learn/python-for-applied-data-science-ai/home/welcome
+      link: https://www.coursera.org/learn/python-for-applied-data-science-ai
       optionalimage: ../img/Coursera Python Certificate RNMYCH7LBLUV.png
       date: Certificate earned in August 2019. 
       grade: "Grade Achieved: 98.8%." 
-      background: In this course I learned how to use Python programming language to work with data.
-    - title: Introduction to Artificial Intelligence (AI) by IBM
-      link: https://www.coursera.org/learn/introduction-to-ai/home/welcome
-      optionalimage: ../img/Coursera Intro to AI certificate 8RXXQWDRNCGW.png
-      date: Certificate earned in July 2019.
-      grade: "Grade Achieved: 91.3%."
-      background: This course helped me to understand how AI works, where it can be implemented and how it can help in solving complex problems.
-    - title: Building AI Powered Chatbots Without Programming by IBM
-      link: https://www.coursera.org/learn/building-ai-powered-chatbots/home/welcome
+      background: Course offered by IBM.<br/><br/> In this course I learned how to use Python programming language to work with data.
+    - title: Building AI Powered Chatbots Without Programming
+      link: https://www.coursera.org/learn/building-ai-powered-chatbots
       optionalimage: ../img/Coursera chatbots certificate RPQCYK637RA8.png
       date: Certificate earned in July 2019.
       grade: "Grade Achieved: 96.8%."
-      background: In this course I learned about Watson Virtual Assistant services and built a chatbot for a fictional flower shop utilizing Watson APIs.
-
+      background: Course offered by IBM.<br/><br/> In this course I learned about Watson Virtual Assistant services and built a chatbot for a fictional flower shop utilizing Watson APIs.
+    - title: Introduction to Artificial Intelligence (AI)
+      link: https://www.coursera.org/learn/introduction-to-ai
+      optionalimage: ../img/Coursera Intro to AI certificate 8RXXQWDRNCGW.png
+      date: Certificate earned in July 2019.
+      grade: "Grade Achieved: 91.3%."
+      background: Course offered by IBM.<br/><br/> This course helped me to understand how AI works, where it can be implemented and how it can help in solving complex problems.
+    - title: Getting Started with AI using IBM Watson
+      link: https://www.coursera.org/learn/ai-with-ibm-watson
+      optionalimage: ../img/Coursera IBM Watson certificate LLVEZKHTFMS4.png
+      date: Certificate earned in August 2019.
+      grade: "Grade Achieved: 90%."
+      background: Course offered by IBM.<br/><br/> In this course I was introduced to the various fileds where IBM Watson is applied in real life (healthcare part was most interesting for me) and learned how to use AI services provided by IBM Watson.
 
 #List of interesting Github repo/projects to include - optional
 github:
