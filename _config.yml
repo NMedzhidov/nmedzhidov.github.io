@@ -31,18 +31,18 @@ blogfeed:
 
 #Work experience is required
 roles:
- - title: Postdoctoral Research Fellow
+ - title: Research Fellow
    start: 2017
    end: Ongoing
    employer: Tokyo Medical and Dental University
-   description: 
+   description: I am working on the mechanisms of B cell activation.
    
 #Education is required
 education:
  - level: Ph.D. in Immunology
-   date: 2007
-   subject: B lymphocyte activation
+   date: 2017
    school: Tokyo Medical and Dental University
+   subject: 
 
 #This section is optional (as is the image link below)
 coursera:
