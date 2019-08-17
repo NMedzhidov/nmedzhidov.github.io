@@ -31,7 +31,7 @@ extras: Interesting articles
 
 #Work experience is required
 roles:
- - title: Research Fellow
+ - title: Postdoctoral Fellow
    start: 2017 - Present
    end: Ongoing
    employer: Tokyo Medical and Dental University
@@ -42,15 +42,15 @@ education:
  - level: Ph.D. in Immunology
    date: 2017
    school: Tokyo Medical and Dental University
-   subject: Endosomal trafficking and persistence of the antigen - B cell receptor complex and their significance in B lymphocyte activation.
- - level: MS in Biology
+   subject: "Thesis: "Endosomal trafficking and persistence of the antigen - B cell receptor complex and their significance in B lymphocyte activation"."
+ - level: MS in Molecular Biology
    date: 2013
    school: Fatih University, Istanbul, Turkey
-   subject: Expression of recobinant Puumala virus endonuclease and in silico screening for small molecule inhibitors.
- - level: Bachelor of Science (BS)
+   subject: "Thesis: "Expression of recobinant Puumala virus endonuclease and in silico screening for small molecule inhibitors"."
+ - level: Bachelor of Science
    date: 2011
    school: Fatih University, Istanbul, Turkey
-   subject: Biology
+   subject: Molecular Biology
 #This section is optional (as is the image link below)
 coursera:
    profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
