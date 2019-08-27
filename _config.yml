@@ -35,7 +35,11 @@ roles:
    start: 2017 - Present
    end: Ongoing
    employer: Tokyo Medical and Dental University
-   description: I am working on the mechanisms of B cell activation.
+   description: Ever thought how our body keeps us safe from microbes? That's exactly what I am trying to figure out! I work on B lymphocytes, the cells that produce proteins called antibodies that serve as weapons against microbes. Currently, I am leading two projects:
+
+1) Together with my mentee, a talented Ph.D. candidate, we are interested in understanding the molecular mechanisms that take place when a B lymphocyte recognizes a foreign substance in the body. We are focused on the main mediator of this process, a unique receptor on the surface of a B cell, the B cell receptor (BCR). It recognizes the foreign molecule in the extracellular environment, catches and takes it inside the cell. We are curious to find out what exactly happens to BCR and the foreign molecule (antigen is the general name for it) when they both take the journey from the cell surface to the deep (and maybe dark) parts of the cell. I would say we witnessed some interesting unexpected things to happen during this journey and hopefully, soon we will be able to identify the critical roles of those events in the immune response.
+
+2) What makes some molecules induce a strong immune response while other molecules are moderate in this aspect or even unable to do so? This is another interesting question that we are trying to address with my other talented mentee, a Ph.D. candidate. We focus on chemical differences between different antigens and look at where and how those differences matter at the molecular level. Some interesting findings are on the way!
    
 #Education is required
 education:
