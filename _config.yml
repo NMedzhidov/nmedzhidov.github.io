@@ -86,8 +86,11 @@ github:
 
 #Introduction
 intro: |
-  I am currently doing research in Immunology focused on understanding the molecular mechanisms of B lymphocyte activation. During my journey as a life scientist, I mainly worked (as many other scientsits do) on a particular protein function/mechanism. This aaproach served scientific community for many years, however, in the age of Big Data, enormous amount of infotmation is being generated. 
-   Together with the new technologies, this amount of data can be used to speed up the progress in biological sciences and solve more complex problems much faster to benefit the society. I want to combine my 8 years of research experience with programming and Artificial Intelligence skills to generate new approaches for solving biological questions. 
+  I am currently doing research in Immunology focused on understanding the molecular mechanisms of B lymphocyte activation. 
+  During my journey as a life scientist, I mainly worked (as many other scientsits do) on a particular protein function/mechanism. 
+  This approach has served scientific community for many years, however, in the age of Big Data, enormous amount of information is being generated. 
+  Together with the new technologies, this amount of data can be used to speed up the progress in biological sciences and help solving more complex problems much faster to benefit the society. 
+  I want to combine my 8 years of life science research experience with Artificial Intelligence skills to generate new approaches for solving biological questions. 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    <strong>Visual Recognition Web App</strong>: Using Python and IBM Watson Visual Recognition service I built a custom image classifier and trained a model for classification of furniture items such as chairs, tables and beds. This model was further used to build a Web application where users can upload pictures and model will attempt to classify them. Please go ahead and give <a target="_blank" href="https://furnitrue.mybluemix.net"> my app </a> a try!<br/><br/>
