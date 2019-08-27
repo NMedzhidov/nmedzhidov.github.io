@@ -89,6 +89,7 @@ intro: |
   I am currently doing research in Immunology field focused on understanding the molecular mechanisms of B lymphocyte activation. In parallel I am trying to gain programming skills and apply them in solving biological questions.
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
+   <strong>Visual Recognition Web App</strong>: Using IBM Watson Visual Recognition service I trained a model for classification of furniture items such as chairs, tables and beds. This model was further used to build a Web application where users can upload pictures and model will try to classify them. Please go ahead and give <a target="_blank" href="https://furnitrue.mybluemix.net"> my app </a> a try!<br/><br/>
    <strong>AI Powered Chatbot</strong>: During my process of learning Artificial Intelligence I developed an AI based chatbot using IBM Watson API services. <a target="_blank" href="https://nazimmedzhidov.intelaedu.com"> This chatbot</a> was desgined for a fictional flower shop chain.<br/><br/>
    <strong>Python Learning</strong>: <a target="_blank" href="https://github.com/NMedzhidov/First-steps-with-Python"> Here</a> are the excercises and a small project that I completed to obtain Python for Data Sciece and AI certificate from Coursera.<br/><br/>
 theme: jekyll-theme-architect
