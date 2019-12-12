@@ -103,6 +103,6 @@ intro: |
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    <strong>Visual Recognition Web App</strong>: Using Python and IBM Watson Visual Recognition service I built a custom image classifier and trained a model for classification of furniture items such as chairs, tables and beds. This model was further used to build a Web application where users can upload pictures and model will attempt to classify them.<br/><br/>
-   <strong>AI Powered Chatbot</strong>: During my process of learning Artificial Intelligence I developed an AI based chatbot using IBM Watson API services. <a target="_blank" href="https://nazimmedzhidov.intelaedu.com"> This chatbot</a> was desgined for a fictional flower shop chain.<br/><br/>
-   <strong>Python Learning</strong>: <a target="_blank" href="https://github.com/NMedzhidov/First-steps-with-Python"> Here</a> are the excercises and a small project that I completed to obtain Python for Data Sciece and AI certificate from Coursera.<br/><br/>
+   <strong>AI Powered Chatbot</strong>: During my process of learning Artificial Intelligence I developed an AI based chatbot using IBM Watson API services. <a target="_blank" href="https://nazimmedzhidov.intelaedu.com"> This chatbot</a> was designed for a fictional flower shop chain.<br/><br/>
+   <strong>Python Learning</strong>: <a target="_blank" href="https://github.com/NMedzhidov/First-steps-with-Python"> Here</a> are the exercises and a small project that I completed to obtain Python for Data Science and AI certificate from Coursera.<br/><br/>
 theme: jekyll-theme-architect
