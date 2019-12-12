@@ -69,7 +69,7 @@ coursera:
       optionalimage: ../img/Coursera Computer Vision certificate.png
       date: Certificate earned in September 2019. 
       grade: "Grade Achieved: 98.0%." 
-      background: Course offered by IBM.<br/><br/> 
+      background: Course offered by IBM.<br/><br/> Using Python and IBM Watson Visual Recognition service I built a custom image classifier and trained a model for classification of furniture items such as chairs, tables and beds. This model was further used to build a Web application where users can upload pictures and model will attempt to classify them.
     - title: Building AI Powered Chatbots Without Programming
       link: https://www.coursera.org/learn/building-ai-powered-chatbots
       optionalimage: ../img/Coursera chatbots certificate RPQCYK637RA8.png
