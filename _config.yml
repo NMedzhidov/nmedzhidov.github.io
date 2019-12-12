@@ -64,6 +64,12 @@ coursera:
       date: Certificate earned in August 2019. 
       grade: "Grade Achieved: 98.8%." 
       background: Course offered by IBM.<br/><br/> In this course I learned how to use Python programming language to work with data.
+    - title: Introduction to Computer Vision with Watson and OpenCV
+      link: https://www.coursera.org/learn/introduction-computer-vision-watson-opencv
+      optionalimage: ../img/Coursera Computer Vision certificate.png
+      date: Certificate earned in September 2019. 
+      grade: "Grade Achieved: 98.0%." 
+      background: Course offered by IBM.<br/><br/> 
     - title: Building AI Powered Chatbots Without Programming
       link: https://www.coursera.org/learn/building-ai-powered-chatbots
       optionalimage: ../img/Coursera chatbots certificate RPQCYK637RA8.png
