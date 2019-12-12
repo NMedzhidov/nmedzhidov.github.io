@@ -49,6 +49,7 @@ education:
    date: 2013
    school: Fatih University, Istanbul, Turkey
    subject: Expression of recobinant Puumala virus endonuclease and in silico screening for small molecule inhibitors.
+   description: This work was focused on in silico drug screening for inhibitors of Puumala Virus endonuclease enzyme. Two libraries of potential small molecule drug candidates were established from a public database (PubChem), a library of experimentally tested drugs against endonuclease from Influenza virus (due to similarity in structure to the Puumala endonuclease) and a library of randomly selected molecules. Both libraries were screened against active site of the Puumala endonuclease by molecular docking software Autodock Vina and binding affinities of the drug candidates to the target site were compared. New candidates with high binding affinity to the Puumla Virus endonuclease active site were identified from the test library.
  - level: Bachelor of Science
    date: 2011
    school: Fatih University, Istanbul, Turkey
